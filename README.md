@@ -1,1 +1,3 @@
-"# Cyber-Attacks-Classification" 
+# Cyber-Attacks-Classification
+
+Different classification and clustering algorithms were utilized on an ensemble model to classify different cyber attacks in network traffic. Initially the dataset was pre-processed and feature engineering was carried on it. Next, the ensemble model was prepared by using Aritificial Neural Networks (ANNs) and a Support Vector Classifier (SVC). The model was first trained on the labelled dataset, and its accuracy was marked down. Then the dataset labels were dropped, and K-mean clustering algorithm was used to group the tuples together, and carry out the training process again, marking down its accuracy as well. The report provides an indepth of the model architecture, the dataset, and our findings.
