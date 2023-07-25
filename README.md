@@ -22,7 +22,7 @@ Different classification and clustering algorithms were utilized on an ensemble 
 <img src=https://github.com/Usman-Zeb/Cyber-Attacks-Classification/assets/58597745/4e7761f6-31f3-4de5-8867-d81794b2100b width="1200"/>
 
 
-### Unsupervised (Clustering) validation accuracy w.r.t epochs
+### Unsupervised (Clustering) accuracy graphs w.r.t epochs
 
 <img src=https://github.com/Usman-Zeb/Cyber-Attacks-Classification/assets/58597745/1b3c7d96-333a-40e7-940f-932bdb68bb7c width="1200"/>
 
